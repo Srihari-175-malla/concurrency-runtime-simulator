@@ -1,0 +1,3 @@
+PASSReqID : 24
+Autograding Result of RequestID 24 : PASS
+Response time (micro sec) : 488013

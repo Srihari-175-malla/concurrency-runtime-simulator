@@ -1,0 +1,3 @@
+file compiledReqID : 47
+Autograding Result of RequestID 47 : file compiled
+Response time (micro sec) : 319187

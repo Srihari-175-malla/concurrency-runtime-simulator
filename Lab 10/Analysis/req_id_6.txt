@@ -1,0 +1,3 @@
+PASSReqID : 6
+Autograding Result of RequestID 6 : PASS
+Response time (micro sec) : 349367
